@@ -7,3 +7,5 @@ but for some reason this was not successful. If it were to work, I would then fi
 Some possible issues with this solution would be the collections changing possibly and being overwritten by new scraped data. This would make the notes associated with them lose context.
 
 For the issue on getting the metadata to append properly, I am not sure where the system is going wrong but I suspect it may be a scoping issue.
+
+For the note taking, it would be mainly based off the code used in the note-taker exercise, with the notes being saved as a new field in the collection of the metadata. 
